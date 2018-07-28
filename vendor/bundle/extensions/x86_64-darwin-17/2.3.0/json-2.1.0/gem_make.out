@@ -1,0 +1,13 @@
+current directory: /Users/lizjen/Development/code/a-tag-with-href-attributes-lab-cb-000/vendor/bundle/gems/json-2.1.0/ext/json
+/Users/lizjen/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20180728-17022-gr7wp5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lizjen/Development/code/a-tag-with-href-attributes-lab-cb-000/vendor/bundle/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/lizjen/Development/code/a-tag-with-href-attributes-lab-cb-000/vendor/bundle/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/lizjen/Development/code/a-tag-with-href-attributes-lab-cb-000/vendor/bundle/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
